@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chen-Chin Lin Portfolio',
+  name: 'Chen-Chin Lin',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Chen-Chin Lin',
 
